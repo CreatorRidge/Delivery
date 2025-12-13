@@ -190,6 +190,7 @@ body {
 }
 
 .products-card__description--title {
+    margin: 0;
     font-size: 24px;
     font-weight: 700;
     line-height: 32px;
